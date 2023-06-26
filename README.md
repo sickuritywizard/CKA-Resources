@@ -1,6 +1,9 @@
 # CKA-Resources
 Curated List of CKA Exam Resources
 
+# CKA Bookmark
+- https://github.com/sickuritywizard/CKA-Resources/blob/main/CKA_Bookmark_2023.html
+
 # Useful Links
 - https://devopscube.com/cka-exam-study-guide/
 - https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
